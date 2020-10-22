@@ -24,6 +24,6 @@ public class MinIndex {
             }
         }
 
-        System.out.print("Max number: " + minIndex);
+        System.out.print("Min index: " + minIndex);
     }
 }

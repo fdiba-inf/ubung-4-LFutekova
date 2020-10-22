@@ -27,6 +27,6 @@ public class ArrayReversal {
         }
 
         String output = Arrays.toString(reversedArray);
-        System.out.print("Numbers: " + output);
+        System.out.print("Reversed symbols: " + output);
     }
 }
